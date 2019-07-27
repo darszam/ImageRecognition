@@ -2,3 +2,4 @@ MalariaCells/.ipynb_checkpoints/IdentifyMalariaCells-checkpoint.ipynb
 MalariaCells/cell-images-for-detecting-malaria.zip
 MalariaCells/cell_images
 MalariaCells/my_saved_cnn.h5
+MalariaCells/my_augmented_cnn.h5
