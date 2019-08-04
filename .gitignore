@@ -4,3 +4,5 @@ MalariaCells/cell_images
 MalariaCells/my_saved_cnn.h5
 MalariaCells/my_augmented_cnn.h5
 OpenCV/.ipynb_checkpoints/Basics-checkpoint.ipynb
+OpenCV/MyVideo.mp4
+OpenCV/MyOutputVideo.avi
