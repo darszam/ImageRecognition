@@ -1,12 +1,9 @@
-MalariaCells/.ipynb_checkpoints/IdentifyMalariaCells-checkpoint.ipynb
 MalariaCells/cell-images-for-detecting-malaria.zip
 MalariaCells/cell_images
 MalariaCells/my_saved_cnn.h5
 MalariaCells/my_augmented_cnn.h5
-OpenCV/.ipynb_checkpoints/Basics-checkpoint.ipynb
 OpenCV/MyVideo.mp4
 OpenCV/MyOutputVideo.avi
-MNIST/.ipynb_checkpoints/MNIST_Hello_World-checkpoint.ipynb
-DogOrCat/.ipynb_checkpoints/DogOrCat-checkpoint.ipynb
+.ipynb_checkpoints
 DogOrCat/dataset
 DogOrCat/best_model.h5
