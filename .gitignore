@@ -10,3 +10,5 @@ DogOrCat/best_model.h5
 styles
 content
 saved
+__pycache__
+Object Detection/ssd300_mAP_77.43_v2.pth
